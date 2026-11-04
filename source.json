@@ -4,8 +4,13 @@
   "version": "v0.16.4",
   "commit_sha": "7961b8b5eec56cc088c140b56d864285eabd3f67",
   "url": "https://github.com/pascalgn/automerge-action",
-  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "policy_sha": "374911c4be584df24e6da57af2d990570ef0f859",
   "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
   "test_agent_version": "2",
-  "harden_agent_version": "2"
+  "harden_agent_version": "2",
+  "dist_artifact": {
+    "gcs_uri": "gs://patch-actions-node-artifacts/dist-artifacts/pascalgn/automerge-action/v0.16.4/sha256-d6f2767057b9a718ae505e30a98f8fd958ab20826da4eff9e69972a87fec6260.tar.gz",
+    "sha256": "d6f2767057b9a718ae505e30a98f8fd958ab20826da4eff9e69972a87fec6260",
+    "size_bytes": 337042
+  }
 }
